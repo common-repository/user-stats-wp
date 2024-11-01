@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"../styles.scss"
+	],
+	"sourcesContent": [
+		".userstatswp {\n  table {\n\tborder-collapse: collapse;\n\twidth: 100%;\n\tcolor: black;\n  }\n\n  table, table td, table th {\n\tborder: 0;\n  }\n\n  table tr th {\n\tbackground-color: #2c337b;\n\tcolor: rgba(240,246,252,.7);\n  }\n\n  table tr td {\n\tvertical-align: top;\n\tpadding: 4px 6px;\n  }\n\n  table tr:nth-child(odd) {\n\tbackground-color: #fff;\n  }\n\n  table tr:nth-child(even) {\n\tbackground-color: #ddf;\n  }\n}\n\n\n\n\n"
+	],
+	"names": [],
+	"mappings": "AAAA,AACE,YADU,CACV,KAAK,CAAC;EACP,eAAe,EAAE,QAAQ;EACzB,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,KAAK;CACV;;AALH,AAOE,YAPU,CAOV,KAAK,EAPP,YAAY,CAOH,KAAK,CAAC,EAAE,EAPjB,YAAY,CAOO,KAAK,CAAC,EAAE,CAAC;EAC3B,MAAM,EAAE,CAAC;CACP;;AATH,AAWE,YAXU,CAWV,KAAK,CAAC,EAAE,CAAC,EAAE,CAAC;EACb,gBAAgB,EAAE,OAAO;EACzB,KAAK,EAAE,wBAAoB;CACzB;;AAdH,AAgBE,YAhBU,CAgBV,KAAK,CAAC,EAAE,CAAC,EAAE,CAAC;EACb,cAAc,EAAE,GAAG;EACnB,OAAO,EAAE,OAAO;CACd;;AAnBH,AAqBE,YArBU,CAqBV,KAAK,CAAC,EAAE,AAAA,UAAW,CAAA,GAAG,EAAE;EACzB,gBAAgB,EAAE,IAAI;CACpB;;AAvBH,AAyBE,YAzBU,CAyBV,KAAK,CAAC,EAAE,AAAA,UAAW,CAAA,IAAI,EAAE;EAC1B,gBAAgB,EAAE,IAAI;CACpB"
+}
